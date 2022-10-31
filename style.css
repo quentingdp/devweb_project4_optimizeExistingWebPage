@@ -646,16 +646,6 @@ a[data-lightbox]:hover img {
 	background: none;
 }
 
-.quotation {
-	font-size: 1.5em;
-	font-style: italic;
-	font-weight: bold;
-}
-
-.quotation-author {
-	font-size: 1.5em;
-}
-
 h1,
 h2,
 h3,
@@ -694,7 +684,7 @@ a {
 }
 
 p {
-	font-size: 11px;
+	font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -758,6 +748,7 @@ h4 {
 
 .portfolio-thumb {
 	margin-bottom: 24px;
+	width: 100%;
 }
 
 .portfolio-row {
